@@ -1,5 +1,24 @@
 <!DOCTYPE html>
-<meta charset="utf-8">
-<title>Redirecting to https://ai-atoms.github.io/milady-docs/</title>
-<meta http-equiv="refresh" content="0; URL=https://ai-atoms.github.io/milady-docs/">
-<link rel="canonical" href="https://ai-atoms.github.io/milady-docs/">
+<html data-destination="https://ai-atoms.github.io/milady-docs">
+
+<head>
+    <meta charset="utf-8">
+    <title>Redirecting to Milady documentation</title>
+
+    <noscript>
+        <meta id="redirect" http-equiv="refresh" content="0; url=https://ai-atoms.github.io/milady-docs">
+        <link rel="canonical" href="https://ai-atoms.github.io/milady-docs">
+    </noscript>
+
+    <script>
+        const destination = document.documentElement.getAttribute('data-destination');
+        window.location.href = destination + (window.location.search || '') + (window.location.hash || '');
+    </script>
+</head>
+
+<body style="text-align: center">
+    Redirecting to Milady documentation at <a
+        href="https://ai-atoms.github.io/milady-docs">https://megalinter.github.io/</a> ...
+</body>
+
+</html>
