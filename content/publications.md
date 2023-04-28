@@ -13,7 +13,7 @@ Arnaud Allera, Fabienne Ribeiro, Michel Perez, and David Rodney.
 
 # PhD Thesis
 
-[Atomistic modelling of dislocation glide and pinning in iron and carbon steel](https://theses.hal.science/tel-03728547)        
+[**Atomistic modelling of dislocation glide and pinning in iron and carbon steel**](https://theses.hal.science/tel-03728547)        
 <sm> *Arnaud Allera. Université de Lyon, 2021. English. ⟨tel-03728547⟩*  
 </sm>
 
