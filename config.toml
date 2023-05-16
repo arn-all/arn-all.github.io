@@ -10,11 +10,11 @@ title = "Arnaud Allera"
 
 # Main menu
 [[menu.main]]
-    name = "About"
+    name = "About me"
     url  = "/about"
     weight = 2
 [[menu.main]]
-    name = "Publications"
+    name = "Research 🔬"
     url  = "/publications"
     weight = 2
 [[menu.main]]

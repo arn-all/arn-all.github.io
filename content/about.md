@@ -1,7 +1,8 @@
 ---
 layout: about
-title: "About"
+title: "About me"
 math: false
+hide_title: true
 ---
 
 

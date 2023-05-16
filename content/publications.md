@@ -17,8 +17,11 @@ Arnaud Allera, Fabienne Ribeiro, Michel Perez, and David Rodney.
 </sm>
 <!-- Add the image and give it a class for styling -->
 <img class="side-image" src="/images/p1.png" alt="" />
-
 </div>
+
+# Interatomic potentials
+
+**Fe-C** [EAM interatomic potential from Allera et al. (2022).](https://github.com/arn-all/FeC-EAM-potential)
 
 # PhD Thesis
 
