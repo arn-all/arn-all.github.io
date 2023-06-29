@@ -1,6 +1,7 @@
 ---
 title: Publications
 hide_title: true
+slug: research
 ---
 
 # Peer-reviewed papers

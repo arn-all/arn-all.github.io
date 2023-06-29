@@ -7,6 +7,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 languageCode = "en"
 theme = "barks"
 title = "Arnaud Allera"
+enableRobotsTXT = true
 
 # Main menu
 [[menu.main]]
@@ -15,7 +16,7 @@ title = "Arnaud Allera"
     weight = 2
 [[menu.main]]
     name = "Research 🔬"
-    url  = "/publications"
+    url  = "/research"
     weight = 2
 [[menu.main]]
     name = "CV"
@@ -25,6 +26,11 @@ title = "Arnaud Allera"
 #    name = "Teaching"
 #    url  = "/teaching"
 #    weight = 2
+
+[sitemap]
+  changefreq = 'daily'
+  filename = 'sitemap.xml'
+  priority = 0.5
 
 # Customization options
 [params]
@@ -73,11 +79,11 @@ title = "Arnaud Allera"
         #    class = "fas fa-university"
         #    url = ""
         #    weight = 5
-        #[params.social.linkedin]
-        #    name = "LinkedIn"
-        #    class = "fab fa-linkedin"
-        #    url = ""
-        #    weight = 6
+        [params.social.linkedin]
+            name = "LinkedIn"
+            class = "fab fa-linkedin"
+            url = "https://www.linkedin.com/in/arnaud-allera-537441277/"
+            weight = 6
         [params.social.orcid]
             name = "ORCID iD"
             class = "fab fa-orcid"
