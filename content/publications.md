@@ -10,14 +10,14 @@ slug: research
 [**Neighbors Map: an Efficient Atomic Descriptor for Structural Analysis**](https://arxiv.org/abs/2307.00978)     
 Arnaud Allera, Alexandra M. Goryaeva, Paul Lafourcade, Jean-Bernard Maillet, Mihai-Cosmin Marinica     
 <sm>
-[<i class="ai ai-arxiv ai"></i> *arXiv:2307.00978*](https://arxiv.org/abs/2307.00978)  
+[<i class="ai ai-arxiv ai"></i> *arXiv:2307.00978*](https://arxiv.org/abs/2307.00978)  --- [<i class="fab fa-github"></i> Github](https://github.com/ai-atoms/neighbors-maps)
 </sm>
 
 
 [**Robust crystal structure identification at extreme conditions using a density-independent spectral descriptor and supervised learning**](https://arxiv.org/abs/2307.01560)     
 Paul Lafourcade, Jean-Bernard Maillet, Christophe Denoual, Eléonore Duval, Arnaud Allera, Alexandra M. Goryaeva, Mihai-Cosmin Marinica. 
 <sm>
-[<i class="ai ai-arxiv ai"></i> *arXiv:2307.01560*](https://arxiv.org/abs/2307.01560) --- [<i class="fab fa-github"></i> Github](https://github.com/ai-atoms/neighbors-maps)
+[<i class="ai ai-arxiv ai"></i> *arXiv:2307.01560*](https://arxiv.org/abs/2307.01560) 
 </sm>
 
 
