@@ -69,11 +69,11 @@ enableRobotsTXT = true
             class = "fab fa-github"
             url = "https://github.com/arn-all"
             weight = 2
-        #[params.social.google_scholar]
-        #    name = "Google Scholar"
-        #    class = "ai ai-google-scholar-square"
-        #    url = "https://scholar.google.com/"
-        #    weight = 3
+        [params.social.google_scholar]
+            name = "Google Scholar"
+            class = "ai ai-google-scholar"
+            url = "https://scholar.google.fr/citations?user=0wWNSagAAAAJ&hl=fr"
+            weight = 3
         #[params.social.institution]
         #    name = "My institution"
         #    class = "fas fa-university"
