@@ -8,10 +8,13 @@ slug: research
 # Papers
 
 [**Neighbors Map: an Efficient Atomic Descriptor for Structural Analysis**](https://arxiv.org/abs/2307.00978)     
-Arnaud Allera, Alexandra M. Goryaeva, Paul Lafourcade, Jean-Bernard Maillet, Mihai-Cosmin Marinica     
 <sm>
 [<i class="ai ai-arxiv ai"></i> *arXiv:2307.00978*](https://arxiv.org/abs/2307.00978)  --- [<i class="fab fa-github"></i> Github](https://github.com/ai-atoms/neighbors-maps)
 </sm>
+<sm>
+Arnaud Allera, Alexandra M. Goryaeva, Paul Lafourcade, Jean-Bernard Maillet, Mihai-Cosmin Marinica     
+</sm>
+
 
 
 **Robust crystal structure identification at extreme conditions using a density-independent spectral descriptor and supervised learning**
@@ -19,8 +22,10 @@ Arnaud Allera, Alexandra M. Goryaeva, Paul Lafourcade, Jean-Bernard Maillet, Mih
 [<i class="ai ai-elsevier-square ai"></i> *Computational Materials Science 230, 25 Oct. 2023, 112534*](https://www.sciencedirect.com/science/article/pii/S0927025623005281)  -  
 [<i class="ai ai-arxiv ai"></i> *arXiv:2307.01560*](https://arxiv.org/abs/2307.01560)
 </sm>
-Paul Lafourcade, Jean-Bernard Maillet, Christophe Denoual, Eléonore Duval, Arnaud Allera, Alexandra M. Goryaeva, Mihai-Cosmin Marinica. 
 
+<sm>
+Paul Lafourcade, Jean-Bernard Maillet, Christophe Denoual, Eléonore Duval, Arnaud Allera, Alexandra M. Goryaeva, Mihai-Cosmin Marinica. 
+</sm>
 
 
 
@@ -30,10 +35,13 @@ Paul Lafourcade, Jean-Bernard Maillet, Christophe Denoual, Eléonore Duval, Arna
 <div class="content-container">
 
 [**Carbon-induced strengthening of bcc iron at the atomic scale**](https://doi.org/10.1103/PhysRevMaterials.6.013608)     
-Arnaud Allera, Fabienne Ribeiro, Michel Perez, and David Rodney.          
 <sm>
-*Phys. Rev. Materials 6, 013608 – Published 18 January 2022*
+[<i class="fa-solid fa-link"></i> *Phys. Rev. Materials 6, 013608 – 2022*](https://doi.org/10.1103/PhysRevMaterials.6.013608)
 </sm>
+<sm>
+Arnaud Allera, Fabienne Ribeiro, Michel Perez, and David Rodney.          
+</sm>
+
 <!-- Add the image and give it a class for styling -->
 <img class="side-image" src="/images/p1.png" alt="" />
 </div>
