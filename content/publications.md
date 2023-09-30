@@ -14,11 +14,15 @@ Arnaud Allera, Alexandra M. Goryaeva, Paul Lafourcade, Jean-Bernard Maillet, Mih
 </sm>
 
 
-[**Robust crystal structure identification at extreme conditions using a density-independent spectral descriptor and supervised learning**](https://arxiv.org/abs/2307.01560)     
-Paul Lafourcade, Jean-Bernard Maillet, Christophe Denoual, Eléonore Duval, Arnaud Allera, Alexandra M. Goryaeva, Mihai-Cosmin Marinica. 
+**Robust crystal structure identification at extreme conditions using a density-independent spectral descriptor and supervised learning**
 <sm>
-[<i class="ai ai-arxiv ai"></i> *arXiv:2307.01560*](https://arxiv.org/abs/2307.01560) 
+[<i class="ai ai-elsevier-square ai"></i> *Computational Materials Science 230, 25 Oct. 2023, 112534*](https://www.sciencedirect.com/science/article/pii/S0927025623005281)  -  
+[<i class="ai ai-arxiv ai"></i> *arXiv:2307.01560*](https://arxiv.org/abs/2307.01560)
 </sm>
+Paul Lafourcade, Jean-Bernard Maillet, Christophe Denoual, Eléonore Duval, Arnaud Allera, Alexandra M. Goryaeva, Mihai-Cosmin Marinica. 
+
+
+
 
 
 
