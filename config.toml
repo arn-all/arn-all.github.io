@@ -44,7 +44,7 @@ enableRobotsTXT = true
         custom_css = "/custom.css"
         description = "Hi, I'm Arnaud"
         keywords = ["materials science", "academic", "CEA", "PhD"]
-
+    
     [params.navigation]
         show_navigation = true
 
@@ -52,15 +52,14 @@ enableRobotsTXT = true
         show_footer = true
 
     [params.typography]
-        #title_font = "Urbanist"
-        title_font = "Cutive Mono"
-        body_font = "Source Sans Pro"
+        title_font = "Montserrat"
+        body_font = "Noto Sans"
 
     [params.colors]
         theme_color = "#333333"
         background_color = "#fcfbf9"
-        text_color = "#333333"
-        link_color = "#17442a"
+        text_color = "#101030"
+        link_color = "#505060"
 
     [params.social]
         [params.social.email]
@@ -104,3 +103,4 @@ enableRobotsTXT = true
 
     [markup.highlight]
         style = 'dracula'
+

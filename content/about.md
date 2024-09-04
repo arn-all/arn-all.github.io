@@ -12,10 +12,12 @@ hide_title: true
   <div class="text-container">
   <!-- Add your text inside a paragraph -->
   <p>
-  I am a post-doc at CEA Saclay, where I use machine learning / deep learning methods to analyze processes that happen at the atomic scale 🔬 in metals: 
-  defects formation, thermally activated process, phase transformations, materials evolution in environment, ... 
+  I am a permanent research scientist at IRSN Cadarache since 2024, in charge of studies on steels ageing using advanced simulation methods. 
 
-  For this, I currently develop efficient atomic descriptors and machine-learning (ML) force-fields, together with [Mihai-Cosmin Marinica](https://scholar.google.com/citations?user=Yfj9RqUAAAAJ&hl=en) and [Alexandra M. Goryaeva](https://scholar.google.fr/citations?user=3VPSML8AAAAJ&hl=en).
+  Previously, I was a post-doc at CEA Saclay, where I developed machine learning methods to analyze processes happening at the atomic scale 🔬 in metals: 
+  defects formation, thermally activated process, phase transformations, materials evolution in environment,... 
+
+  For this, I developed efficient atomic descriptors and machine-learning (ML) force-fields, together with [Mihai-Cosmin Marinica](https://scholar.google.com/citations?user=Yfj9RqUAAAAJ&hl=en) and [Alexandra M. Goryaeva](https://scholar.google.fr/citations?user=3VPSML8AAAAJ&hl=en).
 
   I intensively use massively parallel computational methods such as molecular dynamics to study solid state physics problems at different scales, using both classical and ML-based methods.
   An example is the [simulation of plasticity in metals](https://doi.org/10.1103/PhysRevMaterials.6.013608), which is mediated by dislocation motion --actually the subject of [my thesis](https://theses.hal.science/tel-03728547).

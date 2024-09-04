@@ -10,6 +10,6 @@ sitemap:
 
 Hi, I'm Arnaud 👋
 
-I am a post-doc at SRMP, CEA Saclay, where I develop new machine learning and deep learning methods to analyze atomic-scale processes in metals.
+I am a materials science researcher at [IRSN Cadarache](https://www.irsn.fr), where I develop new simulation and machine learning methods to analyze atomic-scale processes related to steels ageing.
 
 Feel free to get in touch !
