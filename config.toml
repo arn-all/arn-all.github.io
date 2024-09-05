@@ -52,8 +52,8 @@ enableRobotsTXT = true
         show_footer = true
 
     [params.typography]
-        title_font = "Montserrat"
-        body_font = "Noto Sans"
+        title_font = "Lato"
+        body_font = "Lato"
 
     [params.colors]
         theme_color = "#333333"
