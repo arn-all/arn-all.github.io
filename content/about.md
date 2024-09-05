@@ -12,7 +12,7 @@ hide_title: true
   <div class="text-container">
   <!-- Add your text inside a paragraph -->
   <p>
-  I am a permanent research scientist at IRSN Cadarache since 2024, in charge of studies on steels ageing using advanced simulation methods. 
+  I am a permanent research scientist at IRSN Cadarache since 2024, in charge of studies on steel ageing using advanced simulation methods. 
 
   Previously, I was a post-doc at CEA Saclay, where I developed machine learning methods to analyze processes happening at the atomic scale 🔬 in metals: 
   defects formation, thermally activated process, phase transformations, materials evolution in environment,... 
