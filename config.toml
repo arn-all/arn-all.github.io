@@ -43,7 +43,7 @@ enableRobotsTXT = true
         author = "Arnaud Allera"
         custom_css = "/custom.css"
         description = "Hi, I'm Arnaud"
-        keywords = ["materials science", "academic", "CEA", "PhD"]
+        keywords = ["materials science", "academic", "PhD"]
     
     [params.navigation]
         show_navigation = true
@@ -65,7 +65,7 @@ enableRobotsTXT = true
         [params.social.email]
             name = "E-Mail"
             class = "fas fa-envelope"
-            url = "mailto:arnaud.allera@cea.fr"
+            url = "mailto:arnaud.allera@irsn.fr"
             weight = 1
         [params.social.github]
             name = "GitHub"
