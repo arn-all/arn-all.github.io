@@ -44,10 +44,10 @@ hide_title: true
 
   .side-image {
     margin-top: 50px;
-    margin-left: 20px; /* Adjust the space between the image and the text */
+    margin-left: 25px; /* Adjust the space between the image and the text */
     max-width: 40%; /* Adjust the width of the image */
     border-radius: 2%; /* Make the image circular */
-    overflow: hidden; /* Hide anything outside of the circle */
+    overflow: visible; /* Hide anything outside of the circle */
   }
 
   /* Responsive design for smaller screens */
