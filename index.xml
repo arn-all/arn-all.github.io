@@ -4,12 +4,14 @@
  &lt;!-- Add your text inside a paragraph -->
  &lt;p>
  I am a permanent research scientist at IRSN Cadarache since 2024, in charge of studies on steel ageing using advanced simulation methods. 
-&lt;p>Previously, I was a post-doc at CEA Saclay, where I developed machine learning methods to analyze processes happening at the atomic scale 🔬 in metals:
-defects formation, thermally activated process, phase transformations, materials evolution in environment,&amp;hellip;&lt;/p></description></item><item><title>Blog</title><link>/blog/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/blog/</guid><description>&lt;!-- Hey --></description></item><item><title>Publications</title><link>/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/research/</guid><description>&lt;hr />
+&lt;p>I use ideas from condensed matter physics, metallurgy and machine learning to analyze processes happening at the atomic scale🔬 in metals:
+defect formation, thermally activated process, phase transformations, materials evolution in environment, etc.&lt;/p></description></item><item><title>Blog</title><link>/blog/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/blog/</guid><description>&lt;!-- Hey --></description></item><item><title>Publications</title><link>/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/research/</guid><description>&lt;hr />
 &lt;h2 id="papers">Papers&lt;/h2>
 &lt;ul>
 &lt;li>
 &lt;p>&lt;sm>&lt;span style="color: #006daa;">Neighbors Map: an Efficient Atomic Descriptor for Structural Analysis&lt;/span>&lt;br />
+&lt;/sm>
+&lt;sm>
 &lt;strong>Arnaud Allera&lt;/strong>, Alexandra M. Goryaeva, Paul Lafourcade, Jean-Bernard Maillet, Mihai-Cosmin Marinica. &lt;br />
 &lt;/sm>
 &lt;sm>
@@ -20,6 +22,8 @@ defects formation, thermally activated process, phase transformations, materials
 &lt;/li>
 &lt;li>
 &lt;p>&lt;sm>&lt;span style="color: #006daa;">Robust crystal structure identification at extreme conditions using a density-independent spectral descriptor and supervised learning&lt;/span>&lt;br />
+&lt;/sm>
+&lt;sm>
 Paul Lafourcade, Jean-Bernard Maillet, Christophe Denoual, Eléonore Duval, &lt;strong>Arnaud Allera&lt;/strong>, Alexandra M. Goryaeva, Mihai-Cosmin Marinica.
 &lt;/sm>
 &lt;sm>
