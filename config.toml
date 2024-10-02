@@ -19,7 +19,7 @@ enableRobotsTXT = true
     url  = "/about"
     weight = 2
 [[menu.main]]
-    name = "Research 🔬"
+    name = "Publications"
     url  = "/research"
     weight = 3
 [[menu.main]]
@@ -52,14 +52,14 @@ enableRobotsTXT = true
         show_footer = true
 
     [params.typography]
-        title_font = "Lato"
+        title_font = "Lora"
         body_font = "Lato"
 
     [params.colors]
         theme_color = "#333333"
         background_color = "#fcfbf9"
-        text_color = "#101030"
-        link_color = "#505060"
+        # text_color = "#3A3335"
+        link_color = "#006daa" #ed6a5a
 
     [params.social]
         [params.social.email]
