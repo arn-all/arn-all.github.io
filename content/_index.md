@@ -10,6 +10,6 @@ sitemap:
 
 Hi, I'm Arnaud 👋
 
-I am a materials science researcher at [IRSN Cadarache](https://www.irsn.fr), where I develop new simulation and machine learning methods to analyze atomic-scale processes related to steels ageing.
+I am a materials science researcher at [IRSN -- Cadarache](https://www.irsn.fr), where I develop advanced simulations to understand atomic-scale processes causing steel ageing.
 
 Feel free to get in touch !
