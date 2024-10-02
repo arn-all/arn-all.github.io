@@ -5,24 +5,27 @@
  &lt;p>
  I am a permanent research scientist at IRSN Cadarache since 2024, in charge of studies on steel ageing using advanced simulation methods. 
 &lt;p>Previously, I was a post-doc at CEA Saclay, where I developed machine learning methods to analyze processes happening at the atomic scale 🔬 in metals:
-defects formation, thermally activated process, phase transformations, materials evolution in environment,&amp;hellip;&lt;/p></description></item><item><title>Blog</title><link>/blog/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/blog/</guid><description>&lt;!-- Hey --></description></item><item><title>Publications</title><link>/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/research/</guid><description>&lt;h1 id="papers">Papers&lt;/h1>
+defects formation, thermally activated process, phase transformations, materials evolution in environment,&amp;hellip;&lt;/p></description></item><item><title>Blog</title><link>/blog/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/blog/</guid><description>&lt;!-- Hey --></description></item><item><title>Publications</title><link>/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/research/</guid><description>&lt;hr />
+&lt;h2 id="papers">Papers&lt;/h2>
 &lt;ul>
 &lt;li>
 &lt;p>Neighbors Map: an Efficient Atomic Descriptor for Structural Analysis
 &lt;sm>
-Arnaud Allera, Alexandra M. Goryaeva, Paul Lafourcade, Jean-Bernard Maillet, Mihai-Cosmin Marinica. &lt;br />
+&lt;strong>Arnaud Allera&lt;/strong>, Alexandra M. Goryaeva, Paul Lafourcade, Jean-Bernard Maillet, Mihai-Cosmin Marinica. &lt;br />
 &lt;/sm>
 &lt;sm>
-&lt;a href="https://www.sciencedirect.com/science/article/pii/S0927025623005293">&lt;i class="ai ai-elsevier-square ai">&lt;/i> &lt;em>Computational Materials Science 231, 5 Jan. 2024, 112535&lt;/em>&lt;/a> -&lt;br />
-&lt;a href="https://arxiv.org/abs/2307.00978">&lt;i class="ai ai-arxiv ai">&lt;/i> &lt;em>arXiv:2307.00978&lt;/em>&lt;/a> &amp;mdash; &lt;a href="https://github.com/ai-atoms/neighbors-maps">&lt;i class="fab fa-github">&lt;/i> Github&lt;/a>
+&lt;a href="https://www.sciencedirect.com/science/article/pii/S0927025623005293">&lt;i class="ai ai-elsevier-square ai">&lt;/i> &lt;em>Computational Materials Science 231, 112535, (2024)&lt;/em>&lt;/a>&lt;br />
+&lt;a href="https://arxiv.org/abs/2307.00978">&lt;i class="ai ai-arxiv ai">&lt;/i> &lt;em>arXiv:2307.00978&lt;/em>&lt;/a>&lt;br />
+&lt;a href="https://github.com/ai-atoms/neighbors-maps">&lt;i class="fab fa-github">&lt;/i> Github&lt;/a>
 &lt;/sm>&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>Robust crystal structure identification at extreme conditions using a density-independent spectral descriptor and supervised learning
 &lt;sm>
-Paul Lafourcade, Jean-Bernard Maillet, Christophe Denoual, Eléonore Duval, Arnaud Allera, Alexandra M. Goryaeva, Mihai-Cosmin Marinica.
+Paul Lafourcade, Jean-Bernard Maillet, Christophe Denoual, Eléonore Duval, &lt;strong>Arnaud Allera&lt;/strong>, Alexandra M. Goryaeva, Mihai-Cosmin Marinica.
 &lt;/sm>
 &lt;sm>
-&lt;a href="https://www.sciencedirect.com/science/article/pii/S0927025623005281">&lt;i class="ai ai-elsevier-square ai">&lt;/i> &lt;em>Computational Materials Science 230, 25 Oct. 2023, 112534&lt;/em>&lt;/a> -&lt;br />
-&lt;a href="https://arxiv.org/abs/2307.01560">&lt;i class="ai ai-arxiv ai">&lt;/i> &lt;em>arXiv:2307.01560&lt;/em>&lt;/a> &amp;mdash; &lt;a href="https://github.com/lafourcadep/SL-CSA">&lt;i class="fab fa-github">&lt;/i> Github&lt;/a>
+&lt;a href="https://www.sciencedirect.com/science/article/pii/S0927025623005281">&lt;i class="ai ai-elsevier-square ai">&lt;/i> &lt;em>Computational Materials Science 230, 112534, (2023)&lt;/em>&lt;/a>&lt;br />
+&lt;a href="https://arxiv.org/abs/2307.01560">&lt;i class="ai ai-arxiv ai">&lt;/i> &lt;em>arXiv:2307.01560&lt;/em>&lt;/a>&lt;br />
+&lt;a href="https://github.com/lafourcadep/SL-CSA">&lt;i class="fab fa-github">&lt;/i> Github&lt;/a>
 &lt;/sm>&lt;/p></description></item></channel></rss>
