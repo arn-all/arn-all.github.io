@@ -6,8 +6,7 @@ slug: research
 
 ----
 ## Papers
-- Neighbors Map: an Efficient Atomic Descriptor for Structural Analysis 
-<sm>
+- <sm><span style="color: #006daa;">Neighbors Map: an Efficient Atomic Descriptor for Structural Analysis</span>  
 **Arnaud Allera**, Alexandra M. Goryaeva, Paul Lafourcade, Jean-Bernard Maillet, Mihai-Cosmin Marinica.     
 </sm>
 <sm>
@@ -18,8 +17,7 @@ slug: research
 
 
 
-- Robust crystal structure identification at extreme conditions using a density-independent spectral descriptor and supervised learning
-<sm>
+- <sm><span style="color: #006daa;">Robust crystal structure identification at extreme conditions using a density-independent spectral descriptor and supervised learning</span>   
 Paul Lafourcade, Jean-Bernard Maillet, Christophe Denoual, Eléonore Duval, **Arnaud Allera**, Alexandra M. Goryaeva, Mihai-Cosmin Marinica. 
 </sm>
 <sm>
@@ -30,11 +28,7 @@ Paul Lafourcade, Jean-Bernard Maillet, Christophe Denoual, Eléonore Duval, **Ar
 
 
 
-
-
-
-- Carbon-induced strengthening of bcc iron at the atomic scale     
-<sm>
+- <sm><span style="color: #006daa;">Carbon-induced strengthening of bcc iron at the atomic scale</span>        
 **Arnaud Allera**, Fabienne Ribeiro, Michel Perez, and David Rodney.
 </sm>
 <sm>
