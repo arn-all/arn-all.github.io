@@ -9,6 +9,16 @@ defect formation, thermally activated process, phase transformations, materials 
 &lt;h2 id="papers">Papers&lt;/h2>
 &lt;ul>
 &lt;li>
+&lt;p>&lt;sm>&lt;span style="color: #006daa;">Activation entropy of dislocation glide&lt;/span>&lt;br />
+&lt;/sm>
+&lt;sm>
+&lt;strong>Arnaud Allera&lt;/strong>, Thomas D. Swinburne, Alexandra M. Goryaeva, Baptiste Bienvenu, Fabienne Ribeiro, Michel Perez, Mihai-Cosmin Marinica, David Rodney. &lt;br />
+&lt;/sm>
+&lt;sm>
+&lt;a href="https://arxiv.org/abs/2410.04813">&lt;i class="ai ai-arxiv ai">&lt;/i> &lt;em>arXiv:2410.04813&lt;/em>&lt;/a>&lt;br />
+&lt;/sm>&lt;/p>
+&lt;/li>
+&lt;li>
 &lt;p>&lt;sm>&lt;span style="color: #006daa;">Neighbors Map: an Efficient Atomic Descriptor for Structural Analysis&lt;/span>&lt;br />
 &lt;/sm>
 &lt;sm>
@@ -18,16 +28,4 @@ defect formation, thermally activated process, phase transformations, materials 
 &lt;a href="https://www.sciencedirect.com/science/article/pii/S0927025623005293">&lt;i class="ai ai-elsevier-square ai">&lt;/i> &lt;em>Computational Materials Science 231, 112535, (2024)&lt;/em>&lt;/a>&lt;br />
 &lt;a href="https://arxiv.org/abs/2307.00978">&lt;i class="ai ai-arxiv ai">&lt;/i> &lt;em>arXiv:2307.00978&lt;/em>&lt;/a>&lt;br />
 &lt;a href="https://github.com/ai-atoms/neighbors-maps">&lt;i class="fab fa-github">&lt;/i> Github&lt;/a>
-&lt;/sm>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;sm>&lt;span style="color: #006daa;">Robust crystal structure identification at extreme conditions using a density-independent spectral descriptor and supervised learning&lt;/span>&lt;br />
-&lt;/sm>
-&lt;sm>
-Paul Lafourcade, Jean-Bernard Maillet, Christophe Denoual, Eléonore Duval, &lt;strong>Arnaud Allera&lt;/strong>, Alexandra M. Goryaeva, Mihai-Cosmin Marinica.
-&lt;/sm>
-&lt;sm>
-&lt;a href="https://www.sciencedirect.com/science/article/pii/S0927025623005281">&lt;i class="ai ai-elsevier-square ai">&lt;/i> &lt;em>Computational Materials Science 230, 112534, (2023)&lt;/em>&lt;/a>&lt;br />
-&lt;a href="https://arxiv.org/abs/2307.01560">&lt;i class="ai ai-arxiv ai">&lt;/i> &lt;em>arXiv:2307.01560&lt;/em>&lt;/a>&lt;br />
-&lt;a href="https://github.com/lafourcadep/SL-CSA">&lt;i class="fab fa-github">&lt;/i> Github&lt;/a>
 &lt;/sm>&lt;/p></description></item></channel></rss>
