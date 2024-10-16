@@ -6,6 +6,15 @@ slug: research
 
 ----
 ## Papers
+- <sm><span style="color: #006daa;">Activation entropy of dislocation glide</span>  
+</sm>
+<sm>
+**Arnaud Allera**, Thomas D. Swinburne, Alexandra M. Goryaeva, Baptiste Bienvenu, Fabienne Ribeiro, Michel Perez, Mihai-Cosmin Marinica, David Rodney.     
+</sm>
+<sm>
+[<i class="ai ai-arxiv ai"></i> *arXiv:2410.04813*](https://arxiv.org/abs/2410.04813)  
+</sm>
+
 - <sm><span style="color: #006daa;">Neighbors Map: an Efficient Atomic Descriptor for Structural Analysis</span>  
 </sm>
 <sm>
