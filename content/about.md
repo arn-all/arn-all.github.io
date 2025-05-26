@@ -7,7 +7,7 @@ description: "Learn more about Arnaud Allera, a research scientist at ASNR Cadar
 keywords: ["Arnaud Allera", "IRSN", "ASNR", "Cadarache", "materials science", "research scientist", "atomic-scale processes", "steel ageing", "molecular dynamics", "machine learning", "PhD thesis", "computational materials science", "defect formation", "phase transformations"]
 ---
 
-
+# About me
 <!-- Wrap your content in a container div -->
 <div class="content-container">
 
@@ -22,7 +22,7 @@ keywords: ["Arnaud Allera", "IRSN", "ASNR", "Cadarache", "materials science", "r
   Using massively parallel computational methods such as molecular dynamics, I study solid state physics problems at different scales, using both classical and ML-based methods.
   An example is the [simulation of plasticity in metals](https://doi.org/10.1103/PhysRevMaterials.6.013608), which is mediated by dislocation motion --actually the subject of [my thesis](https://theses.hal.science/tel-03728547).
 
-  Previously, I was a post-doc at CEA Saclay-SRMP, where I developed efficient atomic descriptors for geometric and chemical analysis of atomic arrangements, as well as machine-learned force-fields, together with [Mihai-Cosmin Marinica](https://scholar.google.com/citations?user=Yfj9RqUAAAAJ&hl=en) and [Alexandra M. Goryaeva](https://scholar.google.fr/citations?user=3VPSML8AAAAJ&hl=en).
+  Previously, I was a post-doc at CEA Saclay-SRMP, where I developed efficient atomic descriptors for geometric and chemical analysis of atomic arrangements, as well as machine-learned force-fields, together with Mihai-Cosmin Marinica and Alexandra M. Goryaeva.
 
   For my PhD, I worked with David Rodney (Univ. Lyon), Michel Perez (INSA) and Fabienne Ribeiro (IRSN) on the [depinning of dislocations from interstitial solutes](https://doi.org/10.1103/PhysRevMaterials.6.013608), introducing a new [potential for Fe-C](https://github.com/arn-all/FeC-EAM-potential). 
   I defended in Dec. 2021 at Université de Lyon--UCBL.

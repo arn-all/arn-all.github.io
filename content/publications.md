@@ -7,7 +7,7 @@ keywords: ["Arnaud Allera publications", "scientific papers", "materials science
 ---
 
 ----
-## Papers
+# Papers
 - <sm><span style="color: #006daa;">Activation entropy of dislocation glide</span>  
 </sm>
 <sm>
@@ -50,6 +50,7 @@ Paul Lafourcade, Jean-Bernard Maillet, Christophe Denoual, Eléonore Duval, **Ar
 </sm>
 <sm>
 [<i class="fa-solid fa-link"></i> *Phys. Rev. Materials 6, 013608, (2022)*](https://doi.org/10.1103/PhysRevMaterials.6.013608)  
+[<i class="fa-solid fa-file-pdf"></i> PDF](http://michel.perez.net.free.fr/Allera22.pdf)  
 [<i class="fa-brands fa-github fa"></i>  Fe-C EAM potential](https://github.com/arn-all/FeC-EAM-potential) 
 </sm>
 
@@ -57,7 +58,7 @@ Paul Lafourcade, Jean-Bernard Maillet, Christophe Denoual, Eléonore Duval, **Ar
 ----
 
 
-## PhD Thesis
+# PhD Thesis
 
 - <span style="color: #006daa;">Atomistic modelling of dislocation glide and pinning in iron and carbon steel</span>  
 <sm>**Arnaud Allera**, *Université de Lyon, 2021. English. ⟨tel-03728547⟩*   

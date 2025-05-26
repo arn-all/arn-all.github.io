@@ -2,12 +2,14 @@
 layout: landing_page
 image: avatar.jpg
 title: "Arnaud Allera"
-description: "Arnaud Allera: Materials Science Researcher at ASNR Cadarache. Specializing in molecular dynamics simulations of materials."
+description: "Arnaud Allera: Materials Science Researcher. Publications list and CV."
 keywords: ["Arnaud Allera", "materials science", "researcher", "ASNR Cadarache", "steel ageing", "atomic-scale simulations", "molecular dynamics", "computational materials science", "physics", "metallurgy", "machine learning"]
 sitemap:
   priority: 0.9
 
 ---
+
+# Arnaud Allera 
 
 Hi, I'm Arnaud 👋
 
