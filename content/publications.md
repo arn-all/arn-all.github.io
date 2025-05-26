@@ -2,6 +2,8 @@
 title: Publications
 hide_title: true
 slug: research
+description: "List of scientific publications by Arnaud Allera, covering topics in materials science, atomistic simulation, dislocations physics, and machine learning for materials."
+keywords: ["Arnaud Allera publications", "scientific papers", "materials science research", "atomic simulations", "dislocation glide", "machine learning in materials", "computational materials science", "PhD thesis", "physical review materials", "computational materials science", "arxiv"]
 ---
 
 ----

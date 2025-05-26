@@ -1,6 +1,6 @@
 
 # Global options
-baseURL = "/"
+baseURL = "https://arn-all.github.io/"
 canonifyURLs = true
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy", "taxonomyTerm"]
@@ -92,7 +92,15 @@ enableRobotsTXT = true
             class = "fab fa-orcid"
             url = "https://orcid.org/0000-0002-8862-8649"
             weight = 7
-
+    # Open Graph settings for social media sharing
+    [params.opengraph]
+        enable = true
+        image = "/images/avatar.jpg" # Default social sharing image
+        locale = "en_US"
+        type = "website" # 'article' for blog posts, 'website' for homepage
+        # These will be overridden by page-specific front matter
+        title = "Arnaud Allera - Materials Science Researcher"
+        description = "Arnaud Allera is a materials science researcher specializing in atomic-scale simulations metals."
 
 # Options for Markdown renderer
 [markup]
