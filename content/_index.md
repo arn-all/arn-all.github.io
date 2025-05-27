@@ -9,10 +9,8 @@ sitemap:
 
 ---
 
-# Arnaud Allera 
+# Arnaud Allera -- [Research Scientist](/about/) @[ASNR -- Cadarache](https://www.asnr.fr)
 
-Hi, I'm Arnaud 👋
-
-I am a [materials science researcher](/about/) at [ASNR -- Cadarache](https://www.asnr.fr), where I develop advanced simulations to understand atomic-scale processes causing steel ageing.
+I'm a Materials Science researcher, developing advanced simulations to understand atomic-scale processes causing steel ageing.
 
 Feel free to get in touch !
