@@ -16,7 +16,7 @@ enableRobotsTXT = true
     weight = 1
 [[menu.main]]
     name = "About me"
-    url  = "/about"
+    url  = "/about/"
     weight = 2
 [[menu.main]]
     name = "Publications"
