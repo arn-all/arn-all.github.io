@@ -42,8 +42,8 @@ enableRobotsTXT = true
     [params.head]
         author = "Arnaud Allera"
         custom_css = "/custom.css"
-        description = "Hi, I'm Arnaud"
-        keywords = ["materials science", "academic", "PhD"]
+        description = "Arnaud Allera, Research scientist in Materials Science. Publications list and CV."
+        keywords = ["materials science", "research", "publications", "molecular dynamics"]
     
     [params.navigation]
         show_navigation = true
