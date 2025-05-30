@@ -3,7 +3,7 @@ layout: about
 title: "Arnaud Allera"
 math: false
 hide_title: true
-description: "Learn more about Arnaud Allera, a research scientist at ASNR Cadarache focusing on advanced simulations of steel ageing and atomic-scale processes in metals."
+description: "Arnaud Allera is a research scientist at ASNR Cadarache focusing on advanced simulations of steel ageing and atomic-scale processes in metals."
 keywords: ["Arnaud Allera", "IRSN", "ASNR", "Cadarache", "materials science", "research scientist", "atomic-scale processes", "steel ageing", "molecular dynamics", "machine learning", "PhD thesis", "computational materials science", "defect formation", "phase transformations"]
 ---
 
