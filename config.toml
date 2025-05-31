@@ -42,7 +42,7 @@ enableRobotsTXT = true
     [params.head]
         author = "Arnaud Allera"
         custom_css = "/custom.css"
-        description = "Arnaud Allera, Research scientist in Materials Science. Publications list and CV."
+        description = "Arnaud Allera, Research scientist in Materials Science."
         keywords = ["materials science", "research", "publications", "molecular dynamics"]
     
     [params.navigation]
@@ -65,7 +65,7 @@ enableRobotsTXT = true
         [params.social.email]
             name = "E-Mail"
             class = "fas fa-envelope"
-            url = "mailto:arnaud.allera@irsn.fr"
+            url = "mailto:arnaud.allera@asnr.fr"
             weight = 1
         [params.social.github]
             name = "GitHub"
