@@ -95,7 +95,7 @@ enableRobotsTXT = true
     # Open Graph settings for social media sharing
     [params.opengraph]
         enable = true
-        image = "/avatar.jpg" # Default social sharing image
+        image = "" # Default social sharing image
         locale = "en_US"
         type = "website" # 'article' for blog posts, 'website' for homepage
         # These will be overridden by page-specific front matter
