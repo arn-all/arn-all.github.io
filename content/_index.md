@@ -1,6 +1,5 @@
 ---
 layout: landing_page
-image: avatar.jpg
 title: "Arnaud Allera"
 description: "Arnaud Allera: Materials Science Researcher. Publications list and CV."
 keywords: ["Arnaud Allera", "materials science", "researcher", "ASNR Cadarache", "steel ageing", "atomic-scale simulations", "molecular dynamics", "computational materials science", "physics", "metallurgy", "machine learning"]
