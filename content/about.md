@@ -14,15 +14,17 @@ keywords: ["Arnaud Allera", "IRSN", "ASNR", "Cadarache", "materials science", "r
   <div class="text-container">
   <!-- Add your text inside a paragraph -->
   <p>
-  I am a permanent research scientist at ASNR Cadarache since 2024, in charge of studies on steel ageing using advanced simulation methods. 
+  I am a permanent research scientist at ASNR Cadarache, in charge of studies on steel ageing using advanced simulation methods. 
 
-  I use ideas from condensed matter physics, metallurgy and machine learning to analyze processes happening at the atomic scale🔬 in metals: 
+  My research is at the interface of condensed matter physics, metallurgy and machine learning to analyze processes happening at the atomic scale🔬 in metals: 
   defect formation, thermally activated process, phase transformations, materials evolution in environment, etc. 
 
-  Using massively parallel computational methods such as molecular dynamics, I study solid state physics problems at different scales, using both classical and ML-based methods.
-  An example is the [simulation of plasticity in metals](https://doi.org/10.1103/PhysRevMaterials.6.013608), which is mediated by dislocation motion --actually the subject of [my thesis](https://theses.hal.science/tel-03728547).
+  We use massively parallel computational methods such as molecular dynamics to study solid state physics problems at different scales, using both classical and ML-based methods.
+  An example is the [simulation of dislocation mediated plasticity in metals](https://www.nature.com/articles/s41467-025-62390-w), which we showed can be accurately reproduced through atomistic simulations only with the aid of best-in-class machine learning–based simulation methods.
 
-  Previously, I was a post-doc at CEA Saclay-SRMP, where I developed efficient atomic descriptors for geometric and chemical analysis of atomic arrangements, as well as machine-learned force-fields, together with Mihai-Cosmin Marinica and Alexandra M. Goryaeva.
+I currently lead the joint ASNR/CNRS project SIMILAR, which aims at accelerating simulations of irradiation damage at the atomic scale and beyond, benefiting from geometric feature representation. This work is carried out by Raynol Dsouza at ASNR Cadarache as part of his postdoc, co-supervised with TD. Swinburne (Univ Michigan, CNRS) and D. Rodney (Univ Lyon 1).
+
+  Previously, I worked at CEA Saclay-SRMP, where I developed efficient, hackable atomic descriptors for geometric and chemical analysis of atomic arrangements called Neighbors Maps, as well as machine-learned force-fields, as a postdoc with M.-C. Marinica and A. M. Goryaeva.
 
   For my PhD, I worked with David Rodney (Univ. Lyon), Michel Perez (INSA) and Fabienne Ribeiro (IRSN) on the [depinning of dislocations from interstitial solutes](https://doi.org/10.1103/PhysRevMaterials.6.013608), introducing a new [potential for Fe-C](https://github.com/arn-all/FeC-EAM-potential). 
   I defended in Dec. 2021 at Université de Lyon--UCBL.
