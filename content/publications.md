@@ -14,7 +14,9 @@ keywords: ["Arnaud Allera publications", "scientific papers", "materials science
 **Arnaud Allera**, Thomas D. Swinburne, Alexandra M. Goryaeva, Baptiste Bienvenu, Fabienne Ribeiro, Michel Perez, Mihai-Cosmin Marinica, David Rodney.     
 </sm>
 <sm>
-[<i class="ai ai-springer ai"></i> *Nature Communications volume 16, 8367 (2025)*](https://www.nature.com/articles/s41467-025-62390-w)  
+[<img src="https://www.nature.com/static/images/favicons/nature/apple-touch-icon-f39cb19454.png"
+     alt="Nature logo"
+     style="height:1em; width:auto; vertical-align:middle;"> Nature Communications volume 16, 8367 (2025)](https://www.nature.com/articles/s41467-025-62390-w)  
 [<i class="ai ai-arxiv ai"></i> *arXiv:2410.04813*](https://arxiv.org/abs/2410.04813)
 </sm>
 
@@ -24,7 +26,7 @@ keywords: ["Arnaud Allera publications", "scientific papers", "materials science
 **Arnaud Allera**, Alexandra M. Goryaeva, Paul Lafourcade, Jean-Bernard Maillet, Mihai-Cosmin Marinica.     
 </sm>
 <sm>
-[<i class="ai ai-elsevier-square ai"></i> *Computational Materials Science 231, 112535, (2024)*](https://www.sciencedirect.com/science/article/pii/S0927025623005293)  
+[<i class="ai ai-elsevier-square ai"></i> Computational Materials Science 231, 112535, (2024)](https://www.sciencedirect.com/science/article/pii/S0927025623005293)  
 [<i class="ai ai-arxiv ai"></i> *arXiv:2307.00978*](https://arxiv.org/abs/2307.00978)  
 [<i class="fab fa-github"></i> Github](https://github.com/ai-atoms/neighbors-maps)
 </sm>
@@ -37,7 +39,7 @@ keywords: ["Arnaud Allera publications", "scientific papers", "materials science
 Paul Lafourcade, Jean-Bernard Maillet, Christophe Denoual, Eléonore Duval, **Arnaud Allera**, Alexandra M. Goryaeva, Mihai-Cosmin Marinica. 
 </sm>
 <sm>
-[<i class="ai ai-elsevier-square ai"></i> *Computational Materials Science 230, 112534, (2023)*](https://www.sciencedirect.com/science/article/pii/S0927025623005281)  
+[<i class="ai ai-elsevier-square ai"></i> Computational Materials Science 230, 112534, (2023)](https://www.sciencedirect.com/science/article/pii/S0927025623005281)  
 [<i class="ai ai-arxiv ai"></i> *arXiv:2307.01560*](https://arxiv.org/abs/2307.01560)  
 [<i class="fab fa-github"></i> Github](https://github.com/lafourcadep/SL-CSA)
 </sm>
@@ -50,7 +52,7 @@ Paul Lafourcade, Jean-Bernard Maillet, Christophe Denoual, Eléonore Duval, **Ar
 **Arnaud Allera**, Fabienne Ribeiro, Michel Perez, and David Rodney.
 </sm>
 <sm>
-[<i class="fa-solid fa-link"></i> *Phys. Rev. Materials 6, 013608, (2022)*](https://doi.org/10.1103/PhysRevMaterials.6.013608)  
+[<i class="fa-solid fa-link"></i> Phys. Rev. Materials 6, 013608, (2022)](https://doi.org/10.1103/PhysRevMaterials.6.013608)  
 [<i class="fa-solid fa-file-pdf"></i> PDF](http://michel.perez.net.free.fr/Allera22.pdf)  
 [<i class="fa-brands fa-github fa"></i>  Fe-C EAM potential](https://github.com/arn-all/FeC-EAM-potential) 
 </sm>
