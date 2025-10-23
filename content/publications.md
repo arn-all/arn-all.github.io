@@ -8,7 +8,7 @@ keywords: ["Arnaud Allera publications", "scientific papers", "materials science
 
 ----
 # Papers
-- <sm><span style="color: #006daa;">Activation entropy of dislocation glide</span>  
+- <sm><span style="color: #006daa;">Activation entropy of dislocation glide in body-centered cubic metals from atomistic simulations</span>  
 </sm>
 <sm>
 **Arnaud Allera**, Thomas D. Swinburne, Alexandra M. Goryaeva, Baptiste Bienvenu, Fabienne Ribeiro, Michel Perez, Mihai-Cosmin Marinica, David Rodney.     
