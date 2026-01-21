@@ -24,7 +24,7 @@ keywords: ["Arnaud Allera", "IRSN", "ASNR", "Cadarache", "materials science", "r
 
 I currently lead the joint ASNR/CNRS project SIMILAR, which aims at accelerating simulations of irradiation damage at the atomic scale and beyond, benefiting from geometric feature representation. This work is carried out by Raynol Dsouza at ASNR Cadarache as part of his postdoc, co-supervised with TD. Swinburne (Univ Michigan, CNRS) and D. Rodney (Univ Lyon 1).
 
-  Previously, I worked at CEA Saclay-SRMP, where I developed efficient, hackable atomic descriptors for geometric and chemical analysis of atomic arrangements called Neighbors Maps, as well as machine-learned force-fields, as a postdoc with M.-C. Marinica and A. M. Goryaeva.
+  Previously, I worked at CEA Saclay-SRMP, where I developed efficient, GNN-inspired atomic descriptors for geometric and chemical analysis of atomic arrangements called Neighbors Maps, as well as machine-learned force-fields, as a postdoc with M.-C. Marinica and A. M. Goryaeva.
 
   For my PhD, I worked with David Rodney (Univ. Lyon), Michel Perez (INSA) and Fabienne Ribeiro (IRSN) on the [depinning of dislocations from interstitial solutes](https://doi.org/10.1103/PhysRevMaterials.6.013608), introducing a new [potential for Fe-C](https://github.com/arn-all/FeC-EAM-potential). 
   I defended in Dec. 2021 at Université de Lyon--UCBL.
