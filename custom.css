@@ -1,0 +1,5 @@
+h2,h3,h4,h5,h6 {text-align: left;}
+
+sm {
+  font-size: 0.95em; line-height: 135%; display: block; margin-top: 4px;
+}
